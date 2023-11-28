@@ -1,10 +1,10 @@
 # Névsor
 
-Felvidéki
-Halasi
-Illés
-Janzsó
-Kiss
-Kutschi
-Őrsi
-Sipos
+Felvidéki Péter
+Halasi Barbara
+Illés Anna
+Janzsó Milán
+Kiss Evelin
+Kutschi Virág
+Őrsi Árpád
+Sipos Zsaklin
