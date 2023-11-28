@@ -12,7 +12,9 @@
    statisztikákkal, grafikus ábrákkal.
    Adja meg N(0, 1) formában a generált adatosorok jellemzőit.
    Ki mit tekint semlegesnek, maga definiálja!
-
+4. Statisztikai próbák R-ben. Hajtsa végre a korábbi feladatban generált
+   két adatsor összehasonlítását statisztikai próbák segítségéve.
+   
 10. Saját feladat, adatokból, módszertanból.
 
 Határidő a szorgalmi időszak vége. Ha nem sikerült leadni mindent, akkor
