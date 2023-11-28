@@ -1,4 +1,5 @@
-1. GitHub Forkolás és keresztnév hozzáadása a listához
+1. Szorgalmi feladat a rendszer ismeretéhez:
+   GitHub Forkolás és keresztnév hozzáadása a listához
    Pull request indítás
 2. Válasszon egy függvényt a feltelepített csomagokból és
    tanulmányozza a kézikönyvét, futtasa a példákat és dokumentálja.
