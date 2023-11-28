@@ -1,9 +1,9 @@
 1. Szorgalmi feladat a rendszer ismeretéhez:
    GitHub Forkolás és keresztnév hozzáadása a listához
    Pull request indítás
-2. Válasszon egy függvényt a feltelepített csomagokból és
+2. Válasszon egy függvényt a CRAN repozitóriumból (https://cran.r-project.org/) vagy a feltelepített csomagokból és
    tanulmányozza a kézikönyvét, futtasa a példákat és dokumentálja.
-   Lehet érdeklődési körünkbe tartozó csomagból is.
+   Lehet bármilyen érdeklődési körünkbe tartozó csomagból is.
 3. Hozzon létre semleges pH-t mutató, normális eloszlást követő
    adatsorokat. Legyen egy kis és egy nagyobb mintát tartalmazó
    objetuma. Elemezze az adatokat az órán megnézett leíró
