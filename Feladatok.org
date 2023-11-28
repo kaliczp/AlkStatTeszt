@@ -7,10 +7,10 @@
    Lehet bármilyen érdeklődési körünkbe tartozó csomagból is lehet. A csomag telepítéséhez használja az
    ~install.packages()~ függvényt, vagy a grafikus felület menüjét. A függvénybe a csomagnevet idézőjelbe írjuk.
 3. Hozzon létre semleges pH-t mutató, normális eloszlást követő
-   adatsorokat. Legyen egy kis és egy nagyobb mintát tartalmazó
+   adatsorokat legalább kettőt. Legyen egy kisebb és egy nagyobb mintát tartalmazó
    objetuma. Elemezze az adatokat az órán megnézett leíró
    statisztikákkal, grafikus ábrákkal.
-   Adja meg N(0, 1) formában.
+   Adja meg N(0, 1) formában a generált adatosorok jellemzőit.
    Ki mit tekint semlegesnek, maga definiálja!
 
 10. Saját feladat, adatokból, módszertanból.
